@@ -1,0 +1,19 @@
+{
+  "name": "wesleywmd/element-console-style",
+  "description": "Simple library for styling symfony console applications",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Wesley Guthrie",
+      "email": "therealwesleywmd@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Wesleywmd\\Element\\ConsoleStyle\\": "src/"
+    }
+  },
+  "require": {
+    "symfony/console": "^3.4"
+  }
+}
