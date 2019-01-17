@@ -1,6 +1,7 @@
 {
   "name": "wesleywmd/element-console-style",
   "description": "Simple library for styling symfony console applications",
+  "license": "MIT",
   "type": "library",
   "authors": [
     {
